@@ -3,6 +3,8 @@
 
 I am a Electrical Engineering Major at CSUF, and I plan on graduating in 2029.
 
+https://github.com/cesarsandoval12395-hash
+
 ## Favorite CPSC 120L Labs
 
 * Lab 6
