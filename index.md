@@ -16,4 +16,4 @@ I am a Electrical Engineering Major at CSUF, and I plan on graduating in 2029.
 
 * Lab 2
 
-    This lab is a bit more memorable to me because this was my the first lab that introduced me to computer science. I recall staying up really late into the night to get this done, and inevitable the program was working because of the “;” character. A silly way to finish this lab, and I didn’t really get full credit for it, but still really appreciate the lesson it taught me to persevere through the struggle moments.
+    This lab is a bit more memorable to me because this was my the first lab that introduced me to computer science. I recall staying up really late into the night to get this done, and inevitable the program was working because of the “;” character. A silly way to finish this lab, and I didn’t really get full credit for it, but still really appreciate the lesson it taught me to persevere through the struggle moments. 
